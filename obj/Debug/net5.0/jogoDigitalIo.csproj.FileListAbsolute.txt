@@ -1,0 +1,16 @@
+C:\Users\willian.sousa\jogoDigitalIo\obj\Debug\net5.0\jogoDigitalIo.csproj.AssemblyReference.cache
+C:\Users\willian.sousa\jogoDigitalIo\obj\Debug\net5.0\jogoDigitalIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian.sousa\jogoDigitalIo\obj\Debug\net5.0\jogoDigitalIo.AssemblyInfoInputs.cache
+C:\Users\willian.sousa\jogoDigitalIo\obj\Debug\net5.0\jogoDigitalIo.AssemblyInfo.cs
+C:\Users\willian.sousa\jogoDigitalIo\obj\Debug\net5.0\jogoDigitalIo.csproj.CoreCompileInputs.cache
+C:\Users\willian.sousa\jogoDigitalIo\bin\Debug\net5.0\jogoDigitalIo.exe
+C:\Users\willian.sousa\jogoDigitalIo\bin\Debug\net5.0\jogoDigitalIo.deps.json
+C:\Users\willian.sousa\jogoDigitalIo\bin\Debug\net5.0\jogoDigitalIo.runtimeconfig.json
+C:\Users\willian.sousa\jogoDigitalIo\bin\Debug\net5.0\jogoDigitalIo.runtimeconfig.dev.json
+C:\Users\willian.sousa\jogoDigitalIo\bin\Debug\net5.0\jogoDigitalIo.dll
+C:\Users\willian.sousa\jogoDigitalIo\bin\Debug\net5.0\ref\jogoDigitalIo.dll
+C:\Users\willian.sousa\jogoDigitalIo\bin\Debug\net5.0\jogoDigitalIo.pdb
+C:\Users\willian.sousa\jogoDigitalIo\obj\Debug\net5.0\jogoDigitalIo.dll
+C:\Users\willian.sousa\jogoDigitalIo\obj\Debug\net5.0\ref\jogoDigitalIo.dll
+C:\Users\willian.sousa\jogoDigitalIo\obj\Debug\net5.0\jogoDigitalIo.pdb
+C:\Users\willian.sousa\jogoDigitalIo\obj\Debug\net5.0\jogoDigitalIo.genruntimeconfig.cache
